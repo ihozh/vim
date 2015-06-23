@@ -13,6 +13,8 @@ Plugin 'gmarik/Vundle.vim'
 " All of your Plugins must be added before the following line
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'The-NERD-Tree'
+Plugin 'gtags.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
@@ -46,3 +48,22 @@ set showmatch
 set ruler
 set vb t_vb=
 set incsearch
+highlight Comment ctermfg=green guifg=green
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

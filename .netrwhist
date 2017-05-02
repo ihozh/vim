@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/zhangyihe/Documents/workspace/Assignment2'
-let g:netrw_dirhist_2='/Users/zhangyihe/Desktop/CMU/15-619/Tool/P2.2/Project22/Project22'
-let g:netrw_dirhist_3='/Users/zhangyihe/Desktop/CMU/15-619/Tool/P2.2/Project22'
-let g:netrw_dirhist_4='/Users/zhangyihe/.ssh'
-let g:netrw_dirhist_5='/Users/zhangyihe/Documents/Blog/source'
-let g:netrw_dirhist_6='/Users/zhangyihe/Documents/Blog/source/test'
-let g:netrw_dirhist_7='/Users/zhangyihe/Movies/$RECYCLE.BIN'
